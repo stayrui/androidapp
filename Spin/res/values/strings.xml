@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SpinFloat!</string>
+    <string name="app_name">内存监测神器</string>
+    <string name="setting">设置</string>
+    <string name="mem_refresh_key">mem_refresh_key</string>
+    <string name="mem_refresh_title">刷新时间</string>
+    <string name="mem_refresh_summary">设置内存刷新时间</string>
+    <string name="mem_refresh_dialogTitle">刷新时间</string>
+    <string name="mem_refresh_array_default_value">3</string>
+    <string name="show_stat_title">显示状态栏</string>
+    <string name="show_stat_summary">是否在通知栏显示图标</string>
+    <string name="show_stat_summaryOn">显示图标</string>
+    <string name="show_stat_summaryOff">不显示图标</string>
+    <string name="show_stat_default_value">false</string>
+    <string name="show_stat_key">show_stat_key</string>
+    <string name="description">微米科研内存检测神器，功能说明：</string>
+    <string name="description_item1">1.当所选程序内存超过45M时，颜色变化成红色，这个时候就应该果断卸载</string>
+    <string name="description_item2">2.悬浮窗可在任意界面随意移动</string>
+    <string name="description_item3">3.只支持实时显示当前程序的内存数据</string>
+    <string name="description_item4">4.上层数据表示当前程序的内存占用情况，下层数据表示手机的可用的内存值</string>
+    <string name="description_item5">5.最右侧会显示当前电量占比，最左侧曲线图展示当前程序的内存情况</string>
+    <string name="description_item6">6.点击悬浮窗出现关闭小图标可直接关闭并内存释放</string>
+    <string name="description_item7">7.点击展开悬浮窗左二圆圈图标出现当前运行进程list</string>
+    <string name="description_item8">8.点击某个list，即为查看当前程序使用内存情况</string>
+    <string name="description_item9">9.悬浮圈收起时，不占用进程后台无任何操作，只有展开时才会采集当前程序内存数据</string>
+    <string name="notification_title">title</string>
+    <string name="notification_message">message</string>
+    <string name="ticker_text">卧槽</string>
+    
+    <string name="START">开始</string>
+    <string name="STOP">停止</string>
+
+</resources>

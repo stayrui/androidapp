@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="allbackground">#C4E49E</color>
+    <color name="my_dialog_text">#ffffff</color>
+    <color name="my_btn_text">#ffffff</color>
+
+    <drawable name="red">#f00</drawable>
+    <drawable name="white">#ffffff</drawable>
+    <drawable name="green">#BCE193</drawable>
+    <drawable name="gray">#ccc</drawable>
+
+</resources>
